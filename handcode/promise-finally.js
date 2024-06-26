@@ -1,0 +1,3 @@
+Promise.prototype.finally = (fn) => {
+    
+}
